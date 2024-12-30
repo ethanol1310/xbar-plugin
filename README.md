@@ -1,0 +1,2 @@
+# xbar-plugin
+Fun
