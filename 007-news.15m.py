@@ -2,14 +2,10 @@
 # -*- coding: utf-8 -*-
 import json
 import traceback
-# <xbar.title>Github Trending</xbar.title>
+# <xbar.title>Hot News</xbar.title>
 # <xbar.version>v0.1.2</xbar.version>
 # <xbar.author>quanhuynh</xbar.author>
 # <xbar.author.github>ethanol1310</xbar.author.github>
-# <xbar.desc>Tracking Jira Issues</xbar.desc>
-# <xbar.image>https://raw.githubusercontent.com/mfks17/bitbar-plugin-github-trending/Screenshots/01.png</xbar.image>
-# <xbar.dependencies>python, requests, beautifulsoup4</xbar.dependencies>
-# <xbar.abouturl>https://github.com/mfks17/bitbar-plugins-github-trending</xbar.abouturl>
 
 from abc import ABC, abstractmethod
 from datetime import timedelta, datetime
